@@ -1,0 +1,24 @@
+_repo: Horse-Sense-in-Verses-Tense_66385
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, Walt
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '25494'
+    url: http://www.gutenberg.org/2009/agents/25494
+description: ''
+gutenberg_issued: '2021-09-26'
+identifiers:
+  gutenberg: '66385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prose poems, American'
+- !lcc 'PS'
+- !lcsh 'Humorous poetry, American'
+- GITenberg
+title: '"Horse Sense" in Verses Tense'
+url: http://www.gutenberg.org/ebooks/66385
